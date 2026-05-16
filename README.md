@@ -11,11 +11,11 @@
 | Overview | City Analysis |
 |----------|---------------|
 | ![Image](https://github.com/saeedullah-tech/Saudi-Job-Market-Analysis-Bayt.com-Dataset/blob/f322ff99a88fc4a3da0e3d1cfc24513bebc60a4f/SQL%20Job1.png)
-| ![Image](https://github.com/saeedullah-tech/Saudi-Job-Market-Analysis-Bayt.com-Dataset/blob/f322ff99a88fc4a3da0e3d1cfc24513bebc60a4f/SQL%20Jobs2.png) |
+| ![Image](https://github.com/saeedullah-tech/Saudi-Job-Market-Analysis-Bayt.com-Dataset/blob/f322ff99a88fc4a3da0e3d1cfc24513bebc60a4f/SQL%20Jobs2.png)
 
 |--------------------|---------------|
-| ![Image](https://github.com/saeedullah-tech/Saudi-Job-Market-Analysis-Bayt.com-Dataset/blob/f322ff99a88fc4a3da0e3d1cfc24513bebc60a4f/SQL%20Jobs3.png) 
-![Image](https://github.com/saeedullah-tech/Saudi-Job-Market-Analysis-Bayt.com-Dataset/blob/f322ff99a88fc4a3da0e3d1cfc24513bebc60a4f/SQL%20Jobs.png) |
+![Image](https://github.com/saeedullah-tech/Saudi-Job-Market-Analysis-Bayt.com-Dataset/blob/f322ff99a88fc4a3da0e3d1cfc24513bebc60a4f/SQL%20Jobs3.png) 
+![Image](https://github.com/saeedullah-tech/Saudi-Job-Market-Analysis-Bayt.com-Dataset/blob/f322ff99a88fc4a3da0e3d1cfc24513bebc60a4f/SQL%20Jobs.png)
 
 ---
 
