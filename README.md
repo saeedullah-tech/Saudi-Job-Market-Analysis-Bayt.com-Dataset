@@ -10,15 +10,12 @@
 
 | Overview | City Analysis |
 |----------|---------------|
-| ![Overview](screenshots/01_overview.png) | ![Cities](screenshots/02_cities.png) |
+| ![Image](https://github.com/saeedullah-tech/Saudi-Job-Market-Analysis-Bayt.com-Dataset/blob/f322ff99a88fc4a3da0e3d1cfc24513bebc60a4f/SQL%20Job1.png)
+| ![Image](https://github.com/saeedullah-tech/Saudi-Job-Market-Analysis-Bayt.com-Dataset/blob/f322ff99a88fc4a3da0e3d1cfc24513bebc60a4f/SQL%20Jobs2.png) |
 
-| Industry Breakdown | Career Levels |
 |--------------------|---------------|
-| ![Industry](screenshots/03_industry.png) | ![Career](screenshots/04_career_levels.png) |
-
-| Top Companies | SQL Methodology |
-|---------------|-----------------|
-| ![Companies](screenshots/05_companies.png) | ![SQL](screenshots/06_sql_methodology.png) |
+| ![Image](https://github.com/saeedullah-tech/Saudi-Job-Market-Analysis-Bayt.com-Dataset/blob/f322ff99a88fc4a3da0e3d1cfc24513bebc60a4f/SQL%20Jobs3.png) 
+![Image](https://github.com/saeedullah-tech/Saudi-Job-Market-Analysis-Bayt.com-Dataset/blob/f322ff99a88fc4a3da0e3d1cfc24513bebc60a4f/SQL%20Jobs.png) |
 
 ---
 
@@ -226,13 +223,6 @@ ORDER BY total_jobs DESC;
 4. Import your dataset via pgAdmin's import tool (CSV format)
 5. Run the queries in `bayt_analysis.sql` in order
 
----
-
-## 👤 Author
-
-**Saeed** — Data Analyst  
-📍 Riyadh, Saudi Arabia  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile)
 
 ---
 
