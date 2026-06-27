@@ -195,24 +195,6 @@ ORDER BY total_jobs DESC;
 
 ---
 
-## 📁 Repository Structure
-
-```
-📦 saudi-job-market-analysis
- ┣ 📂 screenshots/
- ┃ ┣ 01_overview.png
- ┃ ┣ 02_cities.png
- ┃ ┣ 03_industry.png
- ┃ ┣ 04_career_levels.png
- ┃ ┣ 05_companies.png
- ┃ ┗ 06_sql_methodology.png
- ┣ 📄 bayt_analysis.sql       ← All queries used in this project
- ┣ 📄 README.md
- ┗ 📄 Bayt_Saudi_JobMarket_Report.pdf
-```
-
----
-
 ## 🚀 How to Reproduce
 
 1. Clone this repo
